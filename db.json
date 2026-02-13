@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "c93b",
+      "name": "Zaid",
+      "email": "zmulla173@gmail.com",
+      "password": "786786"
+    },
+    {
+      "id": "fcf1",
+      "name": "Zaid",
+      "email": "zmulla173@gmail.com",
+      "password": "786786"
+    }
+  ],
+  "todos": []
+}
